@@ -1,0 +1,18 @@
+
+   @font-face {
+    font-family: SultanNahiaRegular; /* Гарнитура шрифта */
+    src: url(fonts/bahij-sultannahia.ttf) 
+         ; /* Путь к файлу со шрифтом */
+
+   }
+   
+   #Basic{
+        font-family: SultanNahiaRegular ,sans-serif;/*monospace;*/
+       font-size: 24px;
+        font-weight: bold; 
+   }
+
+  
+   
+
+  
